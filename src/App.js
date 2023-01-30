@@ -56,6 +56,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>D3 React App</h1>
       <svg ref={svgRef}></svg>
     </div>
   );
